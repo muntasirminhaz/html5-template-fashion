@@ -1,1 +1,1 @@
-# HTML% Template - A Fashion / Wallet Ecommerce Website HTML Template
+# HTML5 Template - A Fashion / Wallet Ecommerce Website HTML Template
