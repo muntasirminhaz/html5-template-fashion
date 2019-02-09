@@ -1,2 +1,1 @@
-# html-template-wallet
-# html-template-wallet
+# HTML% Template - A Fashion / Wallet Ecommerce Website HTML Template
